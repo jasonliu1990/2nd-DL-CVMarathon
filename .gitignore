@@ -1,0 +1,8 @@
+*.ipynb_checkpoints
+data
+sample
+downloads
+WikiArticle
+*.exe
+*.log
+*.txt
