@@ -11,7 +11,7 @@ more info: https://cvdl-2.cupoy.com/
 <a href=>Day 7: perspective transformation 概念與實作</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day008_HW.ipynb>Day 8: Filter 操作 (Sobel edge detect, Gaussian Blur)</a></br>
 <a href=>Day 9: SIFT 介紹與實作 (feature extractor)</a></br>
-<a href=>Day 10: SIFT 其他應用 (keypoint matching)</a></br>
+<a>Day 10: SIFT 其他應用 (keypoint matching)</a></br>
 # Part 2 電腦視覺深度學習基礎
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day011_HW.ipynb>Day 11: CNN分類器架構：卷積層</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day012_HW.ipynb>Day 12: CNN分類器架構：步長、填充</a></br>
