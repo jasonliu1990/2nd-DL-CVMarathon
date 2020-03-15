@@ -15,3 +15,10 @@ more info: https://cvdl-2.cupoy.com/
 # Part 2 電腦視覺深度學習基礎
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day011_HW.ipynb>Day 11: CNN分類器架構：卷積層</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day012_HW.ipynb>Day 12: CNN分類器架構：步長、填充</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day013_HW.ipynb>Day 13: CNN分類器架構：池化層、全連接層</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day014_HW.ipynb>Day 14: CNN分類器架構：Batch Normalization</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day015_HW.ipynb>Day 15: 訓練一個CNN分類器：Cifar10為例</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day016_HW.ipynb>Day 16: 如何使用Data Augmentation</a></br>
+<a>Day 17: AlexNet</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day018_HW.ipynb>Day 18: VGG16 and 19</a></br>
+
