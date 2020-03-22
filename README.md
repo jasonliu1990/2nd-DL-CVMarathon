@@ -21,4 +21,7 @@ more info: https://cvdl-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day016_HW.ipynb>Day 16: 如何使用Data Augmentation</a></br>
 <a>Day 17: AlexNet</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day018_HW.ipynb>Day 18: VGG16 and 19</a></br>
-
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day019_HW.ipynb>Day 19: InceptionV1-V3</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day020_HW.ipynb>Day 20: ResNetV1-V2、InceptionV4、Inception-ResNet</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day021_HW.ipynb>Day 21: Transfer learning</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day022_HW.ipynb>Day 22: Breaking Captchas with a CNN</a></br>
