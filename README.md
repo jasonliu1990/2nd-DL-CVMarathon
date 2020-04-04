@@ -25,3 +25,11 @@ more info: https://cvdl-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day020_HW.ipynb>Day 20: ResNetV1-V2、InceptionV4、Inception-ResNet</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day021_HW.ipynb>Day 21: Transfer learning</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day022_HW.ipynb>Day 22: Breaking Captchas with a CNN</a></br>
+# Part 3 CNN 應用案例學習
+<a>Day 23: Object detection原理</a></br>
+<a>Day 24: Object detection基本介紹、演進</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day025_HW.ipynb>Day 25: Region Proposal、IOU概念</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day026_HW.ipynb>Day 26: RPN架構介紹</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day027_HW.ipynb>Day 27: Bounding Box Regression原理</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day028_HW.ipynb>Day 28: Non-Maximum Suppression (NMS)原理</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day029_Day031_HW.ipynb>Day 29 - Day 31: 程式導讀、實作</a></br>
