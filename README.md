@@ -38,6 +38,6 @@ more info: https://cvdl-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day034_HW.ipynb>Day 34: YOLO 細節理解 - 損失函數</a></br>
 <a>Day 35: YOLO 細節理解 - 損失函數程式碼解讀</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day036_HW.ipynb>Day 36: YOLO 細節理解 - 網路架構</a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day037_HW.ipynb>Day 37: YOLO 細節理解 - 網路架構程式碼解讀</a></br>
+<a>Day 37: YOLO 細節理解 - 網路架構程式碼解讀</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day038_HW.ipynb>Day 38: YOLO 演進</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day039_HW.ipynb>Day 39: 使用 YOLOv3 偵測圖片及影片中的物件</a></br>
