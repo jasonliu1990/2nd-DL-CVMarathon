@@ -33,3 +33,11 @@ more info: https://cvdl-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day027_HW.ipynb>Day 27: Bounding Box Regression原理</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day028_HW.ipynb>Day 28: Non-Maximum Suppression (NMS)原理</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day029_Day031_HW.ipynb>Day 29 - Day 31: 程式導讀、實作</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day032_HW.ipynb>Day 32: YOLO 簡介及算法理解</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day033_HW.ipynb>Day 33: YOLO 細節理解 - 網路輸出的後處理</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day034_HW.ipynb>Day 34: YOLO 細節理解 - 損失函數</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day035_HW.ipynb>Day 35: YOLO 細節理解 - 損失函數程式碼解讀</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day036_HW.ipynb>Day 36: YOLO 細節理解 - 網路架構</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day037_HW.ipynb>Day 37: YOLO 細節理解 - 網路架構程式碼解讀</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day038_HW.ipynb>Day 38: YOLO 演進</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day039_HW.ipynb>Day 39: 使用 YOLOv3 偵測圖片及影片中的物件</a></br>
