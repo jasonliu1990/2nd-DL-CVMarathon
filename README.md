@@ -41,3 +41,19 @@ more info: https://cvdl-2.cupoy.com/
 <a>Day 37: YOLO 細節理解 - 網路架構程式碼解讀</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day038_HW.ipynb>Day 38: YOLO 演進</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day039_HW.ipynb>Day 39: 使用 YOLOv3 偵測圖片及影片中的物件</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day040_HW.ipynb>Day 40: 更快的檢測模型 - tiny YOLOv3</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day041_HW.ipynb>Day 41: 訓練 YOLOv3</a></br>
+# Part 4 電腦視覺深度學習實戰
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day042_HW.ipynb>Day 42: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day043_HW.ipynb>Day 43: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day044_HW.ipynb>Day 44: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day045_HW.ipynb>Day 45: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day046_HW.ipynb>Day 46: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day047_HW.ipynb>Day 47: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day048_HW.ipynb>Day 48: </a></br>
+
+
+
+
+
+
