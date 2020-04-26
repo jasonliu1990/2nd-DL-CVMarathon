@@ -44,13 +44,13 @@ more info: https://cvdl-2.cupoy.com/
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day040_HW.ipynb>Day 40: 更快的檢測模型 - tiny YOLOv3</a></br>
 <a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day041_HW.ipynb>Day 41: 訓練 YOLOv3</a></br>
 # Part 4 電腦視覺深度學習實戰
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day042_HW.ipynb>Day 42: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day043_HW.ipynb>Day 43: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day044_HW.ipynb>Day 44: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day045_HW.ipynb>Day 45: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day046_HW.ipynb>Day 46: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day047_HW.ipynb>Day 47: </a></br>
-<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day048_HW.ipynb>Day 48: </a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day042_HW.ipynb>Day 42: 人臉關鍵點-資料結構簡介</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day043_HW.ipynb>Day 43: 人臉關鍵點-檢測網路架構</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day044_HW.ipynb>Day 44: 訓練人臉關鍵點檢測網路</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day045_HW.ipynb>Day 45: 人臉關鍵點應用</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day046_HW.ipynb>Day 46: Mobilenet</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day047_HW.ipynb>Day 47: Mobilenetv2</a></br>
+<a href=https://github.com/jasonliu1990/2nd-DL-CVMarathon/blob/master/homework/Day048_HW.ipynb>Day 48: Tensorflow Object Detection API</a></br>
 
 
 
